@@ -1,6 +1,6 @@
 # Nyílt levél az információfogyasztást gátló felugró ablakok betiltásáért
 
-Kedves Jeanine Hennis-Plasschaert és Martin Schulz!
+## Kedves Jeanine Hennis-Plasschaert és Martin Schulz!
 
 Súlyos probléma miatt írok. Nincs szó életveszélyről, sem közvetlen pénzügyi veszteségről sem. Viszont közvetett módon mégis. Elvesztegetett időről van szó, mely több mint 400 millió embert érint. Minden internetezőt, akik nem férnek hozzá az interneten szabadon elérhető információkhoz, csak felugró ablakok bezárása után. Ezeknek a weboldalakon betöltődéskor automatikusan megjelenő felugró ablakoknak a törvényi korlátozása miatt írok.
 
